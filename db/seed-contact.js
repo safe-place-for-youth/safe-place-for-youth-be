@@ -3,13 +3,14 @@ require('dotenv').config();
 const mongoose = require('mongoose');
 const connect = require('../lib/utils/connect');
 const Contact = require('../lib/models/Contact');
-const dataSet = require('./safe-contact-data.json');
+const contactDataSet = require('./safe-contact-data.json');
+const Place = require('../lib/models/Place');
 
 connect();
 
-const newSet = dataSet.map(contact => {
-  const placeId = jfkdsljkl;
-  
+const newSet = contactDataSet.map(contact => {
+  const placeId = Place.find();
+
   return {
     place: placeId,
     name: contact.name,
