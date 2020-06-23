@@ -1,0 +1,30 @@
+[
+  {
+      "place": "Jefferson School District",
+      "name": "Marti Heard",
+      "email": "mheard@pps.net",
+      "phoneNumber": "503-278-0871",
+      "role": "MV TOSA/Program Lead"
+  },
+  {
+      "place": "Roosevelt School District",
+      "name": "Jude Apodaca",
+      "email": "dapodaca@pps.net",
+      "phoneNumber": "503-351-9809",
+      "role": "Student Success Advocate"
+  },
+  {
+      "place": "Gresham-Barlow School District",
+      "name": "Erin Shepherd",
+      "email": "shepherd15@gresham.k12.or.us",
+      "phoneNumber": "503-261-4580",
+      "role": "Director of Federal Programs"
+  },
+  {
+      "place": "Gresham-Barlow School District",
+      "name": "Nancy Singleterry",
+      "email": "singleterry@gresham.k12.or.us",
+      "phoneNumber": "503-261-4579",
+      "role": "Federal Programs & ELL Specialist McKinney-Vento Liaison"
+  }
+]
